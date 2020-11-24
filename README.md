@@ -1,6 +1,8 @@
 # Discord-Bot-GUI
 Simple Discord Bot GUI written in golang using discordgo and fyne.
 
+This is just a project that I'm using for practice and to get better at go and some go packages I want to use more in the future.
+
 
 # Packages Used
 
